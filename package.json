@@ -1,0 +1,7 @@
+{
+  "name": "foodql",
+  "version": "1.0.0",
+  "description": "Food API with Graphql",
+  "main": "index.js",
+  "license": "MIT"
+}
