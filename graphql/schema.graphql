@@ -1,0 +1,10 @@
+type Food {
+    title: String
+    publisher: String
+    recipe_id: String
+    social_rank: Int
+}
+
+type Query {
+    foods: [Food]!
+}
